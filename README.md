@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishnu-Prabhakaran
 - 👀 I’m interested in AI/ IOT
-- 🌱 I’m currently learning Salesforce Development
-- 💞️ I’m looking to collaborate on SalesForce/ React /JavaScript
+- 🌱 I’m a Salesforce Admin/ Dev
+- 💞️ I’m looking to collaborate on Salesforce/ React /JavaScript
 - 📫 How to reach me @Vishnu-Prabhakaran or https://github.com/Vishnu-Prabhakaran
 
 <!---
